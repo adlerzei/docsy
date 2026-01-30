@@ -81,7 +81,7 @@ params:
       # false # disable
       # 'enable-only (experimental)'
     sidebar_menu_compact: true
-    sidebar_menu_foldable: true
+    sidebar_menu_foldable: false
     sidebar_search_disable: false
     sidebar_root_enabled: true
     feedback:
