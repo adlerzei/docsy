@@ -1,7 +1,7 @@
 ---
 title: Search Results
 layout: search
+type: search
 toc_hide: true
-hide_summary: true
 ---
 
